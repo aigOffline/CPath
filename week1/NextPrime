@@ -1,0 +1,8 @@
+Given a number, return the next smallest prime number
+
+Note: A prime number is greater than one and has no other factors other than 1 and itself.
+
+Examples:
+
+Input: 3
+Output: 5
